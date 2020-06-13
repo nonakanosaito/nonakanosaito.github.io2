@@ -1,0 +1,67 @@
+header{
+    background-color:gray;
+    height:30px;
+}
+
+.name{
+    line-height:30px;
+    text-align:center;
+    font-size:20px;
+}
+
+.main{
+    height:220px;
+    padding-top:20px;
+    border-bottom:solid;
+    background-color:#E6E6FA;
+}
+
+
+.photo{
+    float:left;
+    padding-left:50px;
+}
+
+.ji{
+    height:200px;
+    width:200px;
+    margin:0 auto;
+}
+
+.pro{
+    float:right;
+    padding-right:200px;
+
+}
+
+.career{
+    position:relative;
+    border-bottom:solid;
+    background-color:#E0FFFF
+}
+
+.skill{
+    position:absolute;
+    height:400px;
+    right:30px;
+    top:30px;
+}
+
+.career h1{
+    margin-top:0px;
+    font-size:20px;
+}
+.pr{
+    background-color:#E0FFFF
+}
+
+.pr h1{
+    margin-top:0px;
+    font-size:20px;
+}
+
+.yoko{
+    width:800px;
+    margin:0 auto;
+    color:black;
+}
